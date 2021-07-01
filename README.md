@@ -18,4 +18,7 @@ This repository contains demo projects and assignments I've done during the cour
   -[Overfitting](https://github.com/anafisa/ML-specialization/tree/master/Supervised%20Learning/Quality%20Metrics%20/overfitting)
 - Week 3:
   - [Linear Regression](https://github.com/anafisa/ML-specialization/tree/master/Supervised%20Learning/Linear%20regression)
-  
+### 3. Searching In Data Structure
+### 4. Stats for Data Analysis
+### 5. Data Analysis Applications
+### 6. Final Project
