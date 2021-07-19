@@ -8,13 +8,12 @@ This repository contains demo projects and assignments I've done during the cour
   - [Cosine Similarity](https://github.com/anafisa/ML-specialization/tree/master/1.%20Mathematics-and-Python-for-data-analysis/Cosine%20Similarity)
   
 ### 2. Supervised Learning 
-- Week 1:
-  - [Linear Models](https://github.com/anafisa/ML-specialization/tree/master/Supervised%20Learning/Linear%20Models)
-- Week 2:
-  - [Quality Metrics](https://github.com/anafisa/ML-specialization/tree/master/Supervised%20Learning/Quality%20Metrics%20)
-  -[Overfitting](https://github.com/anafisa/ML-specialization/tree/master/Supervised%20Learning/Quality%20Metrics%20/overfitting)
-- Week 3:
-  - [Linear Regression](https://github.com/anafisa/ML-specialization/tree/master/Supervised%20Learning/Linear%20regression)
+  - [Linear Models](https://github.com/anafisa/ML-specialization/tree/master/2.%20Supervised%20Learning/Linear%20Models)
+  - [Knn](https://github.com/anafisa/ML-specialization/tree/master/2.%20Supervised%20Learning/knn)
+  - [Naive Bayes](https://github.com/anafisa/ML-specialization/tree/master/2.%20Supervised%20Learning/Naive%20Bayes)
+  - [Ensemble Methods](https://github.com/anafisa/ML-specialization/tree/master/2.%20Supervised%20Learning/Decision%20Trees)
+  - [Quality Metrics](https://github.com/anafisa/ML-specialization/tree/master/2.%20Supervised%20Learning/Quality%20Metrics%20)
+  - [Overfitting](https://github.com/anafisa/ML-specialization/tree/master/2.%20Supervised%20Learning/Quality%20Metrics%20/overfitting)
 ### 3. Searching In Data Structure
 ### 4. Stats for Data Analysis
 ### 5. Data Analysis Applications
