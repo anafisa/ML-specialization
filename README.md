@@ -14,11 +14,19 @@ This repository contains demo projects and assignments I've done during the cour
   - [Ensemble Methods](https://github.com/anafisa/ML-specialization/tree/master/2.%20Supervised%20Learning/Decision%20Trees)
   - [Quality Metrics](https://github.com/anafisa/ML-specialization/tree/master/2.%20Supervised%20Learning/Quality%20Metrics%20)
   - [Overfitting](https://github.com/anafisa/ML-specialization/tree/master/2.%20Supervised%20Learning/Quality%20Metrics%20/overfitting)
+  
 ### 3. Searching In Data Structure
   - [Cluster Analysis](https://github.com/anafisa/ML-specialization/tree/master/3.%20Searching%20In%20Data%20Structure/Cluster%20Analysis)
   - [Feature Selection Methods](https://github.com/anafisa/ML-specialization/tree/master/3.%20Searching%20In%20Data%20Structure/Feature%20Selection)
   - [Visualization](https://github.com/anafisa/ML-specialization/tree/master/3.%20Searching%20In%20Data%20Structure/Visualization)
   - [Topic Modeling](https://github.com/anafisa/ML-specialization/tree/master/3.%20Searching%20In%20Data%20Structure/Topic%20Model)
+  
 ### 4. Stats for Data Analysis
+  - [Statistical Tests](https://github.com/anafisa/ML-specialization/tree/master/4.%20Stats%20for%20Data%20Analysis/Criterions)
+  - [Confidence Intervals](https://github.com/anafisa/ML-specialization/tree/master/4.%20Stats%20for%20Data%20Analysis/Confidence%20Intervals)
+  - [Correlation Analysis](https://github.com/anafisa/ML-specialization/tree/master/4.%20Stats%20for%20Data%20Analysis/Correlation%20Analysis%20)
+  - [Linear Regression](https://github.com/anafisa/ML-specialization/tree/master/4.%20Stats%20for%20Data%20Analysis/Regression)
+  - [Final Tasks](https://github.com/anafisa/ML-specialization/tree/master/4.%20Stats%20for%20Data%20Analysis/Final%20Tasks)
+  
 ### 5. Data Analysis Applications
 ### 6. Final Project
