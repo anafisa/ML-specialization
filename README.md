@@ -29,4 +29,8 @@ This repository contains demo projects and assignments I've done during the cour
   - [Final Tasks](https://github.com/anafisa/ML-specialization/tree/master/4.%20Stats%20for%20Data%20Analysis/Final%20Tasks)
   
 ### 5. Data Analysis Applications
+  - [Forecasting Methods](https://github.com/anafisa/ML-specialization/tree/master/5.%20Data%20Analysis%20Applications%20/Forecasting%20Methods)
+  - [Computer Vision](https://github.com/anafisa/ML-specialization/tree/master/5.%20Data%20Analysis%20Applications%20/Computer%20Vision)
+  - [Natural Language Processing](https://github.com/anafisa/ML-specialization/tree/master/5.%20Data%20Analysis%20Applications%20/NLP)
+  - [Recommender Systems](https://github.com/anafisa/ML-specialization/tree/master/5.%20Data%20Analysis%20Applications%20/Recommender%20Systems)
 ### 6. Final Project
