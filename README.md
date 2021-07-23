@@ -41,8 +41,3 @@ This repository contains demo projects and assignments I've done during the cour
   - [Model Implementation](https://github.com/anafisa/ML-specialization/tree/master/6.%20Final%20Project)
   - [Model Enhancement](https://github.com/anafisa/ML-specialization/tree/master/6.%20Final%20Project)
   
- 
- 
-<img width="1174" alt="Снимок экрана 2021-07-23 в 11 23 53" src="https://user-images.githubusercontent.com/30799388/126755933-e251179f-1ce0-42c0-abfd-c97a1c826d4c.png">
-
-
