@@ -1,5 +1,5 @@
-# Machine Learning coursera specialization
-This repository contains demo projects and assignments I've done during the courses.
+# Machine Learning and Data Analysis Specialization
+This repository contains demo projects and assignments I've done during the courses of coursera Machine Learning and Data Analysis Specialization.
 ### 1. Mathematics and Python for data analysis
   - [NumPy, Pandas, Matplotlib, SciPy](https://github.com/anafisa/ML-specialization/tree/master/1.%20Mathematics-and-Python-for-data-analysis/Matrix%20Operations)
   - [Function Optimization](https://github.com/anafisa/ML-specialization/tree/master/1.%20Mathematics-and-Python-for-data-analysis/Function%20Optimization)
@@ -34,3 +34,15 @@ This repository contains demo projects and assignments I've done during the cour
   - [Natural Language Processing](https://github.com/anafisa/ML-specialization/tree/master/5.%20Data%20Analysis%20Applications%20/NLP)
   - [Recommender Systems](https://github.com/anafisa/ML-specialization/tree/master/5.%20Data%20Analysis%20Applications%20/Recommender%20Systems)
 ### 6. Final Project
+  - [Data Exploration and Processing](https://github.com/anafisa/ML-specialization/tree/master/6.%20Final%20Project)
+  - [Geo-data Visualization](https://github.com/anafisa/ML-specialization/tree/master/6.%20Final%20Project)
+  - [Complex Seasonal Forecasting](https://github.com/anafisa/ML-specialization/tree/master/6.%20Final%20Project)
+  - [Model Evaluation](https://github.com/anafisa/ML-specialization/tree/master/6.%20Final%20Project)
+  - [Model Implementation](https://github.com/anafisa/ML-specialization/tree/master/6.%20Final%20Project)
+  - [Model Enhancement](https://github.com/anafisa/ML-specialization/tree/master/6.%20Final%20Project)
+  
+ 
+ 
+<img width="1174" alt="Снимок экрана 2021-07-23 в 11 23 53" src="https://user-images.githubusercontent.com/30799388/126755933-e251179f-1ce0-42c0-abfd-c97a1c826d4c.png">
+
+
